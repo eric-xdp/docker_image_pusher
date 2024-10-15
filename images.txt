@@ -1,8 +1,8 @@
-nginx
+#nginx
 #支持私库
-postgres:15
-odoo:17.0
-redis
-
+#postgres:15
+#odoo:17.0
+#redis
+timescale/timescaledb:latest-pg12
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
