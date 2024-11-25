@@ -4,6 +4,11 @@
 #odoo:17.0
 #redis
 #timescale/timescaledb:latest-pg12
-python:3.9-slim
+#python:3.9-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+exadel/compreface-postgres-db:1.2.0
+exadel/compreface-admin:1.2.0
+exadel/compreface-api:1.2.0
+exadel/compreface-fe:1.2.0
+exadel/compreface-core:1.2.0
