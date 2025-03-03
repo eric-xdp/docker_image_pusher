@@ -12,5 +12,6 @@
 #exadel/compreface-api:1.2.0
 #exadel/compreface-fe:1.2.0
 #exadel/compreface-core:1.2.0
-guovern/iptv-api:latest
-guovern/iptv-api:lite
+#guovern/iptv-api:latest
+#guovern/iptv-api:lite
+zlmediakit/zlmediakit:master
