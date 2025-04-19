@@ -3,7 +3,7 @@
 postgres:10
 #odoo:17.0
 odoo:15.0
-bigemap/bm-server:v1.4.0-slim
+#bigemap/bm-server:v1.4.0-slim
 #redis
 #timescale/timescaledb:latest-pg12
 #python:3.9-slim
