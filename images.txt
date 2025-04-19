@@ -1,7 +1,9 @@
 #nginx
 #支持私库
-#postgres:15
+postgres:10
 #odoo:17.0
+odoo:15.0
+bigemap/bm-server:v1.4.0-slim
 #redis
 #timescale/timescaledb:latest-pg12
 #python:3.9-slim
@@ -14,4 +16,4 @@
 #exadel/compreface-core:1.2.0
 #guovern/iptv-api:latest
 #guovern/iptv-api:lite
-zlmediakit/zlmediakit:master
+#zlmediakit/zlmediakit:master
