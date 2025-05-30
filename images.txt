@@ -1,8 +1,10 @@
+openjdk:11
+mysql:8
 #nginx
 #支持私库
-postgres:10
+#postgres:10
 #odoo:17.0
-odoo:15.0
+#odoo:15.0
 #bigemap/bm-server:v1.4.0-slim
 #redis
 #timescale/timescaledb:latest-pg12
