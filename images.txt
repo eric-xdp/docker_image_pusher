@@ -1,5 +1,5 @@
-openjdk:11
-mysql:8
+#openjdk:11
+mysql:8.0
 #nginx
 #支持私库
 #postgres:10
