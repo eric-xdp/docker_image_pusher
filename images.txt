@@ -1,5 +1,5 @@
 #openjdk:11
-mysql:8.0
+#mysql:8.0
 #nginx
 #支持私库
 #postgres:10
@@ -19,3 +19,4 @@ mysql:8.0
 #guovern/iptv-api:latest
 #guovern/iptv-api:lite
 #zlmediakit/zlmediakit:master
+ubuntu:latest
