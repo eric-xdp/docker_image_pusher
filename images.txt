@@ -19,4 +19,5 @@
 #guovern/iptv-api:latest
 #guovern/iptv-api:lite
 #zlmediakit/zlmediakit:master
-ubuntu:latest
+#ubuntu:latest
+calciumion/new-api:latest
